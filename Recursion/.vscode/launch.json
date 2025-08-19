@@ -1,0 +1,224 @@
+{
+  // Use IntelliSense to learn about possible attributes.
+  // Hover to view descriptions of existing attributes.
+  // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "java",
+      "name": "Current File",
+      "request": "launch",
+      "mainClass": "${file}"
+    },
+    {
+      "type": "java",
+      "name": "binarySearch",
+      "request": "launch",
+      "mainClass": "binarySearch",
+      "projectName": "Recursion_47e84ae6"
+    },
+    {
+      "type": "java",
+      "name": "bubbleSort",
+      "request": "launch",
+      "mainClass": "bubbleSort",
+      "projectName": "Recursion_47e84ae6"
+    },
+    {
+      "type": "java",
+      "name": "calcpower",
+      "request": "launch",
+      "mainClass": "calcpower",
+      "projectName": "Recursion_47e84ae6"
+    },
+    {
+      "type": "java",
+      "name": "countZeros",
+      "request": "launch",
+      "mainClass": "countZeros",
+      "projectName": "Recursion_47e84ae6"
+    },
+    {
+      "type": "java",
+      "name": "dice",
+      "request": "launch",
+      "mainClass": "dice",
+      "projectName": "Recursion_47e84ae6"
+    },
+    {
+      "type": "java",
+      "name": "factrioal",
+      "request": "launch",
+      "mainClass": "factrioal",
+      "projectName": "Recursion_47e84ae6"
+    },
+    {
+      "type": "java",
+      "name": "fib",
+      "request": "launch",
+      "mainClass": "fib",
+      "projectName": "Recursion_47e84ae6"
+    },
+    {
+      "type": "java",
+      "name": "fibanocci",
+      "request": "launch",
+      "mainClass": "fibanocci",
+      "projectName": "Recursion_47e84ae6"
+    },
+    {
+      "type": "java",
+      "name": "isSorted",
+      "request": "launch",
+      "mainClass": "isSorted",
+      "projectName": "Recursion_47e84ae6"
+    },
+    {
+      "type": "java",
+      "name": "issort",
+      "request": "launch",
+      "mainClass": "issort",
+      "projectName": "Recursion_47e84ae6"
+    },
+    {
+      "type": "java",
+      "name": "mergeSort",
+      "request": "launch",
+      "mainClass": "mergeSort",
+      "projectName": "Recursion_47e84ae6"
+    },
+    {
+      "type": "java",
+      "name": "move",
+      "request": "launch",
+      "mainClass": "move",
+      "projectName": "Recursion_47e84ae6"
+    },
+    {
+      "type": "java",
+      "name": "occurance",
+      "request": "launch",
+      "mainClass": "occurance",
+      "projectName": "Recursion_47e84ae6"
+    },
+    {
+      "type": "java",
+      "name": "palindrome",
+      "request": "launch",
+      "mainClass": "palindrome",
+      "projectName": "Recursion_47e84ae6"
+    },
+    {
+      "type": "java",
+      "name": "permutation",
+      "request": "launch",
+      "mainClass": "permutation",
+      "projectName": "Recursion_47e84ae6"
+    },
+    {
+      "type": "java",
+      "name": "phonepad",
+      "request": "launch",
+      "mainClass": "phonepad",
+      "projectName": "Recursion_47e84ae6"
+    },
+    {
+      "type": "java",
+      "name": "printNum",
+      "request": "launch",
+      "mainClass": "printNum",
+      "projectName": "Recursion_47e84ae6"
+    },
+    {
+      "type": "java",
+      "name": "removDublicates",
+      "request": "launch",
+      "mainClass": "removDublicates",
+      "projectName": "Recursion_47e84ae6"
+    },
+    {
+      "type": "java",
+      "name": "returnArrayList",
+      "request": "launch",
+      "mainClass": "returnArrayList",
+      "projectName": "Recursion_47e84ae6"
+    },
+    {
+      "type": "java",
+      "name": "returnArrayListLinearSearch",
+      "request": "launch",
+      "mainClass": "returnArrayListLinearSearch",
+      "projectName": "Recursion_47e84ae6"
+    },
+    {
+      "type": "java",
+      "name": "revNum",
+      "request": "launch",
+      "mainClass": "revNum",
+      "projectName": "Recursion_47e84ae6"
+    },
+    {
+      "type": "java",
+      "name": "selectionSort",
+      "request": "launch",
+      "mainClass": "selectionSort",
+      "projectName": "Recursion_47e84ae6"
+    },
+    {
+      "type": "java",
+      "name": "skipChar",
+      "request": "launch",
+      "mainClass": "skipChar",
+      "projectName": "Recursion_47e84ae6"
+    },
+    {
+      "type": "java",
+      "name": "subseqArray",
+      "request": "launch",
+      "mainClass": "subseqArray",
+      "projectName": "Recursion_47e84ae6"
+    },
+    {
+      "type": "java",
+      "name": "subsequence",
+      "request": "launch",
+      "mainClass": "subsequence",
+      "projectName": "Recursion_47e84ae6"
+    },
+    {
+      "type": "java",
+      "name": "sumOfDig",
+      "request": "launch",
+      "mainClass": "sumOfDig",
+      "projectName": "Recursion_47e84ae6"
+    },
+    {
+      "type": "java",
+      "name": "sumTriangle",
+      "request": "launch",
+      "mainClass": "sumTriangle",
+      "projectName": "Recursion_47e84ae6"
+    },
+    {
+      "type": "java",
+      "name": "sum_of_N",
+      "request": "launch",
+      "mainClass": "sum_of_N",
+      "projectName": "Recursion_47e84ae6"
+    },
+    {
+      "type": "java",
+      "name": "sum_of_N_void",
+      "request": "launch",
+      "mainClass": "sum_of_N_void",
+      "projectName": "Recursion_47e84ae6"
+    },
+    {
+      "type": "java",
+      "name": "towerOfHanoi",
+      "request": "launch",
+      "mainClass": "towerOfHanoi",
+      "projectName": "Recursion_47e84ae6"
+    }
+  ]
+}
